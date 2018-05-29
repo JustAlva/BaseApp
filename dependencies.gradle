@@ -1,0 +1,22 @@
+ext.versions = [
+        appName           : "BaseApp",
+        applicationId     : "com.base.app",
+        minSdk            : 16,
+        compileSdk        : 27,
+        targetSdk         : 27,
+        versionCode       : 1,
+        versionName       : "1.0",
+        buildTools        : '27.1.1',
+
+        supportLib        : '27.1.1',
+        mdProgressBar     : '1.4.2',
+
+        RecyclerView      :'27.1.1',
+        OkHttp            :'3.10.0',
+
+        //高德地图 appkey
+        amapAppKey        :'e899aac8dad917a69f030845d07826c8',
+        //信鸽推送
+        xgAccessId      : "2100281315",
+        xgAccessKey     : "A536SJ5B8ESL"
+]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 主题色 -->
+    <color name="main_color">#1B3645</color>
+    <color name="main_bg_color">#ffEFEEF3</color>
+    <!--view-->
+    <color name="line_color" >#EFEEF3</color>
+    <color name="edit_bg">#fff9f9f9</color>
+
+    <!--font-->
+    <color name="font_black">#272727</color><!--黑色-->
+    <color name="font_grey">#ff636363</color><!--灰色-->
+    <color name="font_grey_qian">#ff989898</color><!--浅灰色-->
+    <color name="font_white_grey">#ffF3F3F3</color><!--浅灰色-->
+    <color name="font_red">#FF4081</color><!--红-->
+
+    <color name="light_gray">#fff5f5f5</color>
+    <color name="white">#ffFFFFFF</color><!--白色-->
+    <color name="black">#ff000000</color><!--黑色-->
+
+</resources>
